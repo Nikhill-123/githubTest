@@ -14,7 +14,7 @@ namespace githubTestApp
 
         }
 
-        public void getGithub()
+        public void getGithub(string userid)
         {
 
         }
