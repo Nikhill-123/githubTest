@@ -18,5 +18,10 @@ namespace githubTestApp
         {
 
         }
+
+        public void getData()
+        {
+
+        }
     }
 }
